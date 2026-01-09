@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/WebDev/projects/SSR-Web-Architecture/app/page.tsx"],"sourcesContent":["export default function Home() {\n  console.log(\"SERVER: page.tsx rendered\");\n\n  return (\n    <main style={{ padding: 40 }}>\n      <h1>Production SSR Web Architecture</h1>\n      <p>Check terminal vs browser console</p>\n    </main>\n  );\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,QAAQ,GAAG,CAAC;IAEZ,qBACE,wRAAC;QAAK,OAAO;YAAE,SAAS;QAAG;;0BACzB,wRAAC;0BAAG;;;;;;0BACJ,wRAAC;0BAAE;;;;;;;;;;;;AAGT"}}]
+}
