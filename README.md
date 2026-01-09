@@ -16,3 +16,9 @@ and performance tradeoffs in modern web applications.
 - Node.js
 - REST APIs
 - Environment Variables
+
+## Architecture Notes
+- Uses Next.js App Router
+- Server Components by default (SSR)
+- Client Components explicitly marked
+- Clear server/client execution boundaries
